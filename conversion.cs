@@ -1,5 +1,4 @@
 using System;
-using System.Threading.Tasks;
 
 class Conversion
 {
@@ -45,5 +44,25 @@ class Conversion
         int vv = Convert.ToInt32(cc);
 
         Console.WriteLine("Sum: "+ (yy + vv));
+
+        /*In Dart Conversion
+        PS. No Float and long in Dart
+        String to int and double
+        DataTypes Variable = Value;;
+        String names = '3.2';
+        newInt = int.parse(names); = 3
+        newDouble = double.parse(names); = 3.2
+        
+
+        int to String
+        DataTypes Variable = (Value).toString
+        int num = 1.toString();
+
+        double to Strong
+        DataTypes Variable = (Value).toString
+        double Strong = 9.2.toString(); or 
+        if you want a specific decimal toStringAsFixed(2)
+        */
+
     }
 }

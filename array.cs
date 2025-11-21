@@ -24,5 +24,29 @@ class Array
             Console.WriteLine("List :" + name);
         }
 
+        /*array in Dart
+        DataTypes Variable = [Value];
+        var       names = ['Stupid', 'Fucker']
+        */
+
+        Console.WriteLine("---Paired Array By Index---");
+        /*Sample Output
+        Index :0
+        Email :slear@gmail.com
+        Username :SlearMendoza
+        Password :shoutoutsayo
+        */
+
+        int index;
+        String[] email = { "slear@gmail.com", "David@gmail.com", "Alenere@gmail.com",};
+        String[] username = { "SlearMendoza", "DavidFckers", "AlenereDog",};
+        String[] password = { "shoutoutsayo", "12345", "qwerty"};
+
+        Console.Write("Index : ");
+        index = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Email : " + email[index]);
+        Console.WriteLine("Username :" + username[index]);
+        Console.WriteLine("Password :" + password[index]);
+        
     }
 }
