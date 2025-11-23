@@ -12,3 +12,18 @@ C:\Users\Dave\Documents\c#\C# practice\obj\Debug\net10.0\refint\C# practice.dll
 C:\Users\Dave\Documents\c#\C# practice\obj\Debug\net10.0\C# practice.pdb
 C:\Users\Dave\Documents\c#\C# practice\obj\Debug\net10.0\C# practice.genruntimeconfig.cache
 C:\Users\Dave\Documents\c#\C# practice\obj\Debug\net10.0\ref\C# practice.dll
+C:\Users\Dave\Documents\c#\Csharp_Practice\obj\Debug\net10.0\C# practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dave\Documents\c#\Csharp_Practice\obj\Debug\net10.0\C# practice.AssemblyInfoInputs.cache
+C:\Users\Dave\Documents\c#\Csharp_Practice\obj\Debug\net10.0\C# practice.AssemblyInfo.cs
+C:\Users\Dave\Documents\c#\Csharp_Practice\obj\Debug\net10.0\C# practice.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Documents\c#\Csharp_Practice\obj\Debug\net10.0\C# practice.sourcelink.json
+C:\Users\Dave\Documents\c#\Csharp_Practice\obj\Debug\net10.0\C# practice.dll
+C:\Users\Dave\Documents\c#\Csharp_Practice\obj\Debug\net10.0\refint\C# practice.dll
+C:\Users\Dave\Documents\c#\Csharp_Practice\obj\Debug\net10.0\C# practice.pdb
+C:\Users\Dave\Documents\c#\Csharp_Practice\bin\Debug\net10.0\C# practice.exe
+C:\Users\Dave\Documents\c#\Csharp_Practice\bin\Debug\net10.0\C# practice.deps.json
+C:\Users\Dave\Documents\c#\Csharp_Practice\bin\Debug\net10.0\C# practice.runtimeconfig.json
+C:\Users\Dave\Documents\c#\Csharp_Practice\bin\Debug\net10.0\C# practice.dll
+C:\Users\Dave\Documents\c#\Csharp_Practice\bin\Debug\net10.0\C# practice.pdb
+C:\Users\Dave\Documents\c#\Csharp_Practice\obj\Debug\net10.0\C# practice.genruntimeconfig.cache
+C:\Users\Dave\Documents\c#\Csharp_Practice\obj\Debug\net10.0\ref\C# practice.dll
