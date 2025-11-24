@@ -1,0 +1,15 @@
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\encapsulation\encapsulation\bin\Debug\net10.0\encapsulation.exe
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\encapsulation\encapsulation\bin\Debug\net10.0\encapsulation.deps.json
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\encapsulation\encapsulation\bin\Debug\net10.0\encapsulation.runtimeconfig.json
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\encapsulation\encapsulation\bin\Debug\net10.0\encapsulation.dll
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\encapsulation\encapsulation\bin\Debug\net10.0\encapsulation.pdb
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\encapsulation\encapsulation\obj\Debug\net10.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\encapsulation\encapsulation\obj\Debug\net10.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\encapsulation\encapsulation\obj\Debug\net10.0\encapsulation.AssemblyInfo.cs
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\encapsulation\encapsulation\obj\Debug\net10.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\encapsulation\encapsulation\obj\Debug\net10.0\encapsulation.sourcelink.json
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\encapsulation\encapsulation\obj\Debug\net10.0\encapsulation.dll
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\encapsulation\encapsulation\obj\Debug\net10.0\refint\encapsulation.dll
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\encapsulation\encapsulation\obj\Debug\net10.0\encapsulation.pdb
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\encapsulation\encapsulation\obj\Debug\net10.0\encapsulation.genruntimeconfig.cache
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\encapsulation\encapsulation\obj\Debug\net10.0\ref\encapsulation.dll
