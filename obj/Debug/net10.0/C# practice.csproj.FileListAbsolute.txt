@@ -27,3 +27,8 @@ C:\Users\Dave\Documents\c#\Csharp_Practice\bin\Debug\net10.0\C# practice.dll
 C:\Users\Dave\Documents\c#\Csharp_Practice\bin\Debug\net10.0\C# practice.pdb
 C:\Users\Dave\Documents\c#\Csharp_Practice\obj\Debug\net10.0\C# practice.genruntimeconfig.cache
 C:\Users\Dave\Documents\c#\Csharp_Practice\obj\Debug\net10.0\ref\C# practice.dll
+C:\Users\Dave\Documents\c#\Csharp_Practice\out\C# practice.exe
+C:\Users\Dave\Documents\c#\Csharp_Practice\out\C# practice.deps.json
+C:\Users\Dave\Documents\c#\Csharp_Practice\out\C# practice.runtimeconfig.json
+C:\Users\Dave\Documents\c#\Csharp_Practice\out\C# practice.dll
+C:\Users\Dave\Documents\c#\Csharp_Practice\out\C# practice.pdb
