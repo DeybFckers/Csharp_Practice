@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Dave\\Documents\\c#\\Csharp_Practice\\oop\\encapsulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{830D9318-A95F-4C8F-9A33-1F781F970CF2}|encapsulation\\encapsulation.csproj|c:\\users\\dave\\documents\\c#\\csharp_practice\\oop\\encapsulation\\encapsulation\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830D9318-A95F-4C8F-9A33-1F781F970CF2}|encapsulation\\encapsulation.csproj|solutionrelative:encapsulation\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dave\\Documents\\c#\\Csharp_Practice\\oop\\encapsulation\\encapsulation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:encapsulation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{830D9318-A95F-4C8F-9A33-1F781F970CF2}|encapsulation\\encapsulation.csproj|c:\\users\\dave\\documents\\c#\\csharp_practice\\oop\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830D9318-A95F-4C8F-9A33-1F781F970CF2}|encapsulation\\encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dave\\Documents\\c#\\Csharp_Practice\\oop\\encapsulation\\encapsulation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:encapsulation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{830D9318-A95F-4C8F-9A33-1F781F970CF2}|encapsulation\\encapsulation.csproj|c:\\users\\dave\\documents\\c#\\csharp_practice\\oop\\encapsulation\\encapsulation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830D9318-A95F-4C8F-9A33-1F781F970CF2}|encapsulation\\encapsulation.csproj|solutionrelative:encapsulation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dave\\Documents\\c#\\Csharp_Practice\\oop\\encapsulation\\encapsulation\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:encapsulation\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "person.cs",
               "DocumentMoniker": "C:\\Users\\Dave\\Documents\\c#\\Csharp_Practice\\oop\\encapsulation\\encapsulation\\person.cs",
               "RelativeDocumentMoniker": "encapsulation\\person.cs",
               "ToolTip": "C:\\Users\\Dave\\Documents\\c#\\Csharp_Practice\\oop\\encapsulation\\encapsulation\\person.cs",
               "RelativeToolTip": "encapsulation\\person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T09:44:03.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dave\\Documents\\c#\\Csharp_Practice\\oop\\encapsulation\\encapsulation\\Program.cs",
               "RelativeDocumentMoniker": "encapsulation\\Program.cs",
               "ToolTip": "C:\\Users\\Dave\\Documents\\c#\\Csharp_Practice\\oop\\encapsulation\\encapsulation\\Program.cs",
               "RelativeToolTip": "encapsulation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T09:27:44.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Dave\\Documents\\c#\\Csharp_Practice\\oop\\encapsulation\\encapsulation\\User.cs",
               "RelativeDocumentMoniker": "encapsulation\\User.cs",
               "ToolTip": "C:\\Users\\Dave\\Documents\\c#\\Csharp_Practice\\oop\\encapsulation\\encapsulation\\User.cs",
               "RelativeToolTip": "encapsulation\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T09:28:19.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T09:28:19.43Z"
             }
           ]
         }
