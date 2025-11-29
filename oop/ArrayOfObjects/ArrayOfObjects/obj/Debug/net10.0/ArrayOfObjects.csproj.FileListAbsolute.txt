@@ -1,0 +1,15 @@
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\ArrayOfObjects\ArrayOfObjects\bin\Debug\net10.0\ArrayOfObjects.exe
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\ArrayOfObjects\ArrayOfObjects\bin\Debug\net10.0\ArrayOfObjects.deps.json
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\ArrayOfObjects\ArrayOfObjects\bin\Debug\net10.0\ArrayOfObjects.runtimeconfig.json
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\ArrayOfObjects\ArrayOfObjects\bin\Debug\net10.0\ArrayOfObjects.dll
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\ArrayOfObjects\ArrayOfObjects\bin\Debug\net10.0\ArrayOfObjects.pdb
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\ArrayOfObjects\ArrayOfObjects\obj\Debug\net10.0\ArrayOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\ArrayOfObjects\ArrayOfObjects\obj\Debug\net10.0\ArrayOfObjects.AssemblyInfoInputs.cache
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\ArrayOfObjects\ArrayOfObjects\obj\Debug\net10.0\ArrayOfObjects.AssemblyInfo.cs
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\ArrayOfObjects\ArrayOfObjects\obj\Debug\net10.0\ArrayOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\ArrayOfObjects\ArrayOfObjects\obj\Debug\net10.0\ArrayOfObjects.sourcelink.json
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\ArrayOfObjects\ArrayOfObjects\obj\Debug\net10.0\ArrayOfObjects.dll
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\ArrayOfObjects\ArrayOfObjects\obj\Debug\net10.0\refint\ArrayOfObjects.dll
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\ArrayOfObjects\ArrayOfObjects\obj\Debug\net10.0\ArrayOfObjects.pdb
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\ArrayOfObjects\ArrayOfObjects\obj\Debug\net10.0\ArrayOfObjects.genruntimeconfig.cache
+C:\Users\Dave\Documents\c#\Csharp_Practice\oop\ArrayOfObjects\ArrayOfObjects\obj\Debug\net10.0\ref\ArrayOfObjects.dll
